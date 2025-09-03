@@ -49,6 +49,7 @@ logistro==1.1.0
 matplotlib-inline==0.1.7
 multidict==6.6.4
 narwhals==2.1.2
+nbformat>=4.2.0
 nest-asyncio==1.6.0
 numcodecs==0.13.1
 numpy==2.2.6
@@ -83,7 +84,7 @@ requests==2.32.5
 requests-cache==1.2.1
 requests-oauthlib==2.0.0
 rsa==4.9.1
-safe-earth==0.0.15
+safe-earth==0.0.17
 shapely==2.1.1
 simplejson==3.20.1
 six==1.17.0
