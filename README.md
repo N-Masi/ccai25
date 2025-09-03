@@ -1,3 +1,3 @@
 # Fairness of AI Weather Predictions
 
-Abstract...
+Abstract: We demonstrate how the SAFE package can be used to investigate the fairness of AI weather prediction (AIWP) models. Principally, we show how to assess model performance on sub-global regions, breaking the traditional, spatially-averaged paradigm. We show how to measure the performance of models in specific countries, global subregions, or income strata of countries. In the end, it is shown that models do not perform equally well across all regions, exhibiting a bias. We perform this tutorial looking at the GraphCast model on ERA5 data.
